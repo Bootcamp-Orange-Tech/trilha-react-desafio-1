@@ -1,4 +1,4 @@
-## Git & GitHub: First Repository
+## React Challenge 01: Calculator
 
 <strong>❯❯:zap: Challenge:</strong>
 - Create a calculator with Javascript & React.
